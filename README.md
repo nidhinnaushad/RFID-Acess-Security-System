@@ -1,7 +1,7 @@
 # RFID-Acess-Security-System
 Windows Login using RFID Tags
 # Abstract
-Here we have implemented a demo of Windows login using RFID Systems.
+Implementation of Windows login using RFID Systems.
 Just like Windows login, same for Facebook or Google authentication only change required is to enter their particular passcode. 
 This system can be used as a backup for extra security.
 # Materials Required
