@@ -7,6 +7,4 @@ Arduino Uno, RFID RC-522, male-to-female jumper wires, Tags, and USB cable type 
 UnoJoy: A combination of a library and a firmware file for the communication chip on the Arduino. 
 <br/>
 #
-**Resources: [Blog](https://www.programmersought.com/article/19344317580/)** <br/>
-#
 **[Demo Video](https://youtu.be/JPCOPQIZK8Y)**
